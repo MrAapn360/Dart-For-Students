@@ -24,6 +24,12 @@ import 'dart:io';
     Java uses: Scanner sc = new Scanner(System.in); sc.nextLine();
     Dart uses: stdin.readLineSync();
     Much simpler — no Scanner class needed!
+
+      
+  String name = stdin.readLineSync() ?? "";
+  String ? name = stdin.readLineSync();
+  String name = stdin.readLineSync()!;
+
 */
 
 
