@@ -1,0 +1,1 @@
+Encapsulation in Dart is the object-oriented programming (OOP) principle of bundling data (properties) and methods into a single unit (a class) while restricting direct access to the object's internal state. 
